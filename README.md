@@ -83,6 +83,12 @@ On this page, users view the three jobs that best suit them after filling out th
 In this page, the user fills in their answers to the questionnaire. After completing all questions, a calculation is made that describes their traits and the three jobs that best suit them.
 ![RAMAK questionnaire Page](https://github.com/user-attachments/assets/3a77be94-3ab6-4278-a50b-ae88908eddad)
 
+## Video Demo
+
+
+
+https://github.com/user-attachments/assets/21c8720b-127c-4820-8708-01e6376cc6c3
+
 
 
 
