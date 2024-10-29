@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #eef0f3;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+.App {
+    text-align: center;
+  }
+  
+  .logo {
+    color: #6361fb;
+  }
+  
+  
+  .hero-section {
+    background: url('C:\Users\Daniel Maman\git\MITHABTEY-CareerSeekers\CareerSeekers\client\src\assets\job.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #433c3c;
+    text-align: center;
+  }
+  
+  .hero-content {
+    max-width: 600px;
+  }
+  
+  .cta-button {
+    padding: 1rem 2rem;
+    background-color: #329dcf;
+    border: none;
+    color: #282c34;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  
+  .features-section {
+    padding: 2rem;
+    background-color: #f4f4f4;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    gap: 2rem;
+  }
+  
+  .feature {
+    background-color: #ffffff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 30%;
+  }
+  
+  .footer {
+    background-color: #282c34;
+    color: #ffffff;
+    padding: 1rem;
+  }
+  
+  .social-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .social-links li a {
+    color: #6199fb;
+    text-decoration: none;
+  }
+
+  /* styles.css */
+header {
+  transition: transform 0.3s ease-in-out;
+}
